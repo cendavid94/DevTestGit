@@ -1,0 +1,4 @@
+a=15; //Check this value please
+b=50;
+
+printf("a+b=%d",a+b);
