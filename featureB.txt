@@ -1,6 +1,8 @@
-FeatureB 1
-FeatureB 1.1
+There are some mistakes
+
+1. FeatureB 1.0 and other stuff
+2. FeatureB 1.1
 
 
 
-FeatureB 2.0
+FeatureB 2.0 and more likely to develop the 3.0 version

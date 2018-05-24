@@ -1,4 +1,7 @@
-Feature 1.1
-Feature 2.0
+Some specs of the app
+The Feature 1.1 is now available but improve to
+the Feature 1.2
 
 Feature 3.0
+
+Mod by DevA
